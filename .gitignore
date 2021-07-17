@@ -3,3 +3,4 @@
 .cache
 *.csv
 .env
+__pycache__

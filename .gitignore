@@ -1,0 +1,5 @@
+.idea
+.venv
+.cache
+*.csv
+.env
